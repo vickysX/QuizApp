@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="start_btn">INIZIA</string>
+    <string name="restart_btn">RIPROVA</string>
+    <string name="exit_btn">ESCI</string>
+
+    <string name="intro_text">
+        Ciao\! Questo è un quiz\! Adesso risponderai ad alcune
+        domande di cui di sicuro non sapevi la risposta\!
+    </string>
+
+    <string name="outro_text">
+        Hai risposto correttamente a %s domande\!
+        Vuoi riprovare o uscire dall\'app?
+    </string>
+
+    <string name="first_q">Come si dice Milano in inglese?</string>
+    <string name="first_q_first_a">Midland</string>
+    <string name="first_q_second_a">Milàn</string>
+    <string name="first_q_third_a">Mìlan</string>
+
+    <string name="second_q">Qual è la capitale dell\'Australia?</string>
+    <string name="second_q_first_a">Canberra</string>
+    <string name="second_q_second_a">Sidney</string>
+    <string name="second_q_third_a">Melbourne</string>
+
+    <string name="third_q">Qual è la capitale dello Stato di New York?</string>
+    <string name="third_q_first_a">Buffalo</string>
+    <string name="third_q_second_a">Albany</string>
+    <string name="third_q_third_a">New York City</string>
+
+    <string name="fourth_q">Qual è la capitale dello Stato della Florida?</string>
+    <string name="fourth_q_first_a">Tallahassee</string>
+    <string name="fourth_q_second_a">Louisiana</string>
+    <string name="fourth_q_third_a">Miami</string>
+</resources>
